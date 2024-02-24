@@ -1,0 +1,35 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    border: 5px;
+    border-color: black;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgb(213, 255, 213);
+}
+
+.footer{
+    position: fixed;
+    color: rgb(239, 237, 237);
+    font-size: 20px;
+    bottom: 0;
+    width: 100%;
+    background-color:cadetblue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 10px;
+    border-color: darkslategrey;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(13, 87, 49);
+    background-color: white;
+}
